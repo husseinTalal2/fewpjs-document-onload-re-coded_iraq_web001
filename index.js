@@ -6,4 +6,5 @@ function manipulate(){
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
   manipulate();
+  console.log("after manipulating");
 });
