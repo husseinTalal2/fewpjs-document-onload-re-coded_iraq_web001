@@ -3,7 +3,6 @@
 // function manipulate(){
 //   Document.getElementById('text').innerText = "This is really cool!";
 // }
-Document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
-  //manipulate();
 });
